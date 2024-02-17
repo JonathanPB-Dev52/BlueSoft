@@ -22,4 +22,7 @@ descendentemente (primero el cliente con mayor # de transacciones en el mes)
 los retiros realizados superior a $1.000.000.
 
 #Instalación:
+- Descargar Base de datos:
+	- Modelo de DB (URL): https://drive.google.com/drive/folders/1XjkdDbeKgx90kRKEYFhw301EzzjsdIRe?usp=sharing
+	-Scritp DB: https://drive.google.com/drive/folders/1ZgaM2MRj-e5Xa7fe4BkvEVqQ9hccrIII?usp=sharing
 - Descargar el codigo, y correr la solucion.
